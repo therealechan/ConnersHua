@@ -1,6 +1,7 @@
 # China Area Network
 # > welink
 DOMAIN-SUFFIX,huaweicloud.com,DIRECT
+DOMAIN-SUFFIX,myhuaweicloud.com,DIRECT
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
